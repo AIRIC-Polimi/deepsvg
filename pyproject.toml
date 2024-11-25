@@ -3,7 +3,7 @@ requires = ["pdm-backend"]
 build-backend = "pdm.backend"
 
 [project]
-dynamic = ["version"]
+version = "0.1.0"
 name = "deepsvg"
 
 dependencies = [
